@@ -1,12 +1,37 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Guys+!+Kartikey+here" alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Kartikey Kolhe</h1>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<h3 align="center">
+🤖 AI/ML Engineer in the Making | 📊 Data Science Student | 🚀 Builder of Intelligent Systems
+</h3>
 
-# 💫 About Me:
-👨‍💻 About Me<br><br>🚀 I build systems that think, learn, and automate.<br><br>🎓 Final-Year B.Tech CSE (Data Science) student passionate about transforming data into intelligent solutions and ideas into production-ready applications.<br><br>🧠 Exploring the intersection of:<br><br>🤖 Machine Learning & AI<br>📊 Data Engineering & Analytics<br>👁️ Computer Vision (YOLO • OpenCV)<br>🐍 Python Development<br>📱 Application Development<br>☁️ Cloud & DevOps Fundamentals<br><br>⚡ From training models and engineering data pipelines to developing applications and integrating AI into products, I enjoy taking projects from concept → code → deployment.<br><br>🔍 Currently focused on building intelligent systems that solve real-world problems through automation, data, and machine learning.<br><br>💡 Driven by curiosity. Guided by data. Constantly building.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Data+Engineering;Computer+Vision+%7C+Python+Development;Building+AI-Powered+Applications;Code+%E2%86%92+Train+%E2%86%92+Deploy+%E2%86%92+Repeat" />
+</p>
 
+---
+
+# 💫 About Me
+
+🚀 I build systems that **think, learn, and automate.**
+
+🎓 Final-Year **B.Tech CSE (Data Science)** student passionate about transforming data into intelligent solutions and ideas into production-ready applications.
+
+🧠 Exploring the intersection of:
+
+* 🤖 Machine Learning & AI
+* 📊 Data Engineering & Analytics
+* 👁️ Computer Vision (YOLO • OpenCV)
+* 🐍 Python Development
+* 📱 Application Development
+* ☁️ Cloud & DevOps Fundamentals
+
+⚡ From training models and engineering data pipelines to developing applications and integrating AI into products, I enjoy taking projects from **concept → code → deployment**.
+
+🔍 Currently focused on building intelligent systems that solve real-world problems through automation, data, and machine learning.
+
+💡 Driven by curiosity. Guided by data. Constantly building.
+
+---
 
 ## 🌐 Socials:
 <h3 align="center">🌐 Connect With Me</h3>
@@ -38,21 +63,64 @@
 </p>
 
 
-# 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,flask,postgres,opencv,aws,postman" />
-  </a>
-</p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=callmekk13&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=callmekk13&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=callmekk13&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,flask,postgres,aws,git,github,vscode,flutter&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,linux,postman,firebase,mongodb&perline=7" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=callmekk13&icon=7&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=callmekk13&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmekk13&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=callmekk13&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=callmekk13&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=callmekk13&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🚀 Current Focus
+
+```text
+🔹 Machine Learning & AI
+🔹 Data Engineering
+🔹 Computer Vision Systems
+🔹 AI-Powered Applications
+🔹 Scalable Software Development
+```
+
+---
+
+## 💭 Engineering Philosophy
+
+<p align="center">
+<i>
+"Great software isn't just code that works.
+It's code that learns, scales, and creates impact."
+</i>
+</p>
