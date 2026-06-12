@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kartikey Kolhe</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kartikey%20Kolhe&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=AI%20%7C%20ML%20Engineer%20•%20Data%20Science%20Student&descAlignY=60&descSize=18"/>
+
+<!-- <h3 align="center">
+🚀 Building Intelligent Systems That Think, Learn & Automate
+</h3> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Machine+Learning+%7C+Data+Engineering;Computer+Vision+%7C+Python+Development;Building+AI-Powered+Applications;Transforming+Ideas+Into+Production+Systems" />
+</p>
 
 <h3 align="center">
 🤖 AI/ML Engineer in the Making | 📊 Data Science Student | 🚀 Builder of Intelligent Systems
