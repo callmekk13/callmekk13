@@ -41,7 +41,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,flask,pandas,postgres,opencv,aws,postman" />
+    <img src="https://skillicons.dev/icons?i=python,docker,flask,postgres,opencv,aws,postman" />
   </a>
 </p>
 # 📊 GitHub Stats:
